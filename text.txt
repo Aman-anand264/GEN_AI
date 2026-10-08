@@ -1,0 +1,3 @@
+1) langchian-ollama : Free LLM provide 
+
+2) GROQ -> AI compnay -> make chips called (LPU - Language processing unit) -> Low latency -> high throughput -> faster tha other llm models. 
